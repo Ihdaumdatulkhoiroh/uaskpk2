@@ -1,0 +1,42 @@
+body{
+    background-image: url("lavender.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'PT Sans Caption', sans-serif;
+    margin-top: 40px;
+}
+p{
+    opacity: 50%;
+    margin: auto;
+    text-align: center;
+}
+.input1{
+    position: relative;
+    left: 100px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+}
+.input2{
+    position: relative;
+    left: 154px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 15px;
+}
+.atas{
+    background-color: white;
+    display: inline-block;
+    width: auto;
+    float: right;
+    border-radius: 5pt;
+    
+}
+.atas h3{
+    font-family: 'PT Sans Caption', sans-serif;
+    letter-spacing: 3px;
+    float: right;
+    padding: 15px 10px 15px 10px;
+}
